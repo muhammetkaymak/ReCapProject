@@ -1,0 +1,13 @@
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

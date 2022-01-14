@@ -1,0 +1,15 @@
+D:\YazilimGelistiriciKampi\ReCapProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\YazilimGelistiriciKampi\ReCapProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\YazilimGelistiriciKampi\ReCapProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\YazilimGelistiriciKampi\ReCapProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\YazilimGelistiriciKampi\ReCapProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\YazilimGelistiriciKampi\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
